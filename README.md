@@ -1,9 +1,11 @@
-# Getting Started with Sellbrite API
-
-This page will help you get started with the Sellbrite API. You'll be up and running in a jiffy!
-
 ---
-
+title: "Getting Started with Sellbrite API"
+slug: "README"
+excerpt: "This page will help you get started with the Sellbrite API. You'll be up and running in a jiffy!"
+hidden: false
+createdAt: "2017-02-06T22:45:59.556Z"
+updatedAt: "2017-10-16T18:22:37.120Z"
+---
 ### Menu
 
 [Getting Started with Sellbrite API](/Sellbrite-API)

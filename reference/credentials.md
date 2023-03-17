@@ -1,7 +1,10 @@
-# Credentials
-
 ---
-
+title: "Credentials"
+slug: "credentials"
+hidden: false
+createdAt: "2017-02-07T00:29:52.761Z"
+updatedAt: "2017-02-13T21:56:48.575Z"
+---
 ### Menu
 
 [Introduction](introduction)

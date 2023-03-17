@@ -1,7 +1,10 @@
-# Test/Developer accounts
-
 ---
-
+title: "Test/Developer accounts"
+slug: "dev-accounts"
+hidden: false
+createdAt: "2021-06-29T15:26:39.515Z"
+updatedAt: "2021-06-29T15:26:39.515Z"
+---
 ### Menu
 
 [Getting Started with Sellbrite API](/Sellbrite-API)

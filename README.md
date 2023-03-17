@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Sellbrite API"
-slug: "getting-start"
+slug: "README"
 excerpt: "This page will help you get started with the Sellbrite API. You'll be up and running in a jiffy!"
 hidden: false
 createdAt: "2017-02-06T22:45:59.556Z"

@@ -32,6 +32,7 @@ Most channels do not require and do not accept carrier specific shipping methods
 shipping carrier: "USPS"
 shipping method: "Priority Mail"
 
+<<<<<<< HEAD
 shipping carrier: "USPS"
 shipping method: "Priority Mail International"
 
@@ -168,3 +169,4 @@ shipping method: "Domestic Express Doc"
   ]
 }
 [/block]
+

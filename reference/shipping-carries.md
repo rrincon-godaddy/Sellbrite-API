@@ -25,15 +25,22 @@ Most channels do not require and do not accept carrier specific shipping methods
 **Examples**
 
 shipping carrier: "USPS"
+
 shipping method: "Priority Mail"
 
 
+
 shipping carrier: "USPS"
+
 shipping method: "Priority Mail International"
 
 
+
 shipping carrier: "DHL eCommerce"
+
 shipping method: "Domestic Express Doc"
+
+
 
 USPS
 ```

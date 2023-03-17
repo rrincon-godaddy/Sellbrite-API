@@ -6,9 +6,7 @@ This page will help you get started with the Sellbrite API. You'll be up and run
 
 ### Menu
 
-[Documentation](/)
-
-[Getting Started with Sellbrite API](getting-started)
+[Getting Started with Sellbrite API](/)
 
 [Test/Developer accounts](dev-accounts)
 

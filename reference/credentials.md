@@ -20,5 +20,5 @@
 
 ---
 
-For information about how to access and obtain your API credentials, please review [this API Guide](/credentials).
+For information about how to access and obtain your API credentials, please review [this API Guide](../credentials).
 

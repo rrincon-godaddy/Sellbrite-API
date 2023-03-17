@@ -25,21 +25,18 @@ Most channels do not require and do not accept carrier specific shipping methods
 **Examples**
 
 shipping carrier: "USPS"
-
 shipping method: "Priority Mail"
 
 
 shipping carrier: "USPS"
-
 shipping method: "Priority Mail International"
 
 
 shipping carrier: "DHL eCommerce"
-
 shipping method: "Domestic Express Doc"
 
-
-```USPS
+USPS
+```
 Priority Mail
 Priority Mail Express
 First Class Mail
@@ -50,7 +47,8 @@ Priority Mail Express International
 First Class Mail International
 ```
 
-```FedEx
+FedEx
+```
 Ground
 Home Delivery
 SmartPost
@@ -66,7 +64,8 @@ International First
 Europe First International Priority
 ```
 
-```UPS
+UPS
+```
 Standard
 Ground
 Saver
@@ -84,12 +83,14 @@ Express Plus
 Expedited
 ```
 
-```Australia Post
+Australia Post
+```
 Express Post
 Parcel Post
 ```
 
-```Canada Post
+Canada Post
+```
 Regular Parcel
 Expedited Parcel
 Priority
@@ -103,7 +104,8 @@ Tracked Packet International
 Small Package International Air
 ```
 
-```Deutsche Post
+Deutsche Post
+```
 Postkarte
 Standardbrief
 Kompaktbrief
@@ -112,7 +114,8 @@ Maxibrief
 Maxibrief Plus
 ```
 
-```DHL Express
+DHL Express
+```
 Domestic Express Doc
 Economy Select Doc
 Express Worldwide Nondoc
@@ -136,7 +139,8 @@ Medical Express
 Express Easy NonDoc
 ```
 
-```DHL eCommerce
+DHL eCommerce
+```
 First Class Expedited
 Priority Expedited
 BPM Ground
@@ -155,17 +159,20 @@ Light (for EZ Return)
 Plus (for EZ Return)
 ```
 
-```Lasership
+Lasership
+```
 Routed Delivery
 ```
 
-```OnTrac
+OnTrac
+```
 Ground
 Sunrise Gold
 Sunrise
 ```
 
-```Royal Mail
+Royal Mail
+```
 1st Class
 Signed For 1st Class
 2nd Class
